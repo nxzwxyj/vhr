@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="index" type="ThymeleafExpressions" />
       <mapping pattern="SpuSaleAttrMapper" type="XML" />
+      <mapping pattern="SkuSaleAttrValueMapper" type="XML" />
     </extensionMap>
   </component>
 </application>
