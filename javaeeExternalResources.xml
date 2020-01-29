@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.springframework.org/schema/aop" />
+    <ignored-resource url="http://www.springframework.org/schema/beans" />
+    <ignored-resource url="http://www.springframework.org/schema/context" />
+    <ignored-resource url="http://www.springframework.org/schema/mvc" />
+  </component>
+</application>
