@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a string representation of the argument in the specified radix" />
+      <item value="an integer to be converted to a string." />
+      <item value="the radix to use in the string representation" />
+      <item value="The largest possible (non-power of two) array size. * Needed by toArray and related methods." />
       <item value="* Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the key." />
       <item value="* Returns &lt;tt&gt;true&lt;/tt&gt; if this map contains a mapping for the specified * key. More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if * this map contains a mapping for a key &lt;tt&gt;k&lt;/tt&gt; such that * &lt;tt&gt;(key==null ? k==null : key.equals(k))&lt;/tt&gt;. (There can be * at most one such mapping.)" />
       <item value="Serializable" />
@@ -16,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
