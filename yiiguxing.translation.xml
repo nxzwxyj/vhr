@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Increases the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance, if * necessary, to ensure that it can hold at least the number of elements * specified by the minimum capacity argument." />
+      <item value="* Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size. An application can use this operation to minimize * the storage of an &lt;tt&gt;ArrayList&lt;/tt&gt; instance." />
       <item value="* Constructs a list containing the elements of the specified * collection, in the order they are returned by the collection's * iterator." />
       <item value="Constructs an empty list with an initial capacity of ten" />
       <item value="* The array buffer into which the elements of the ArrayList are stored. * The capacity of the ArrayList is the length of this array buffer. Any * empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA * will be expanded to DEFAULT_CAPACITY when the first element is added." />
@@ -46,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
