@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the HashMap is at least 25% full but clamping to maximum capacity." />
+      <item value="The capacity of the backing &lt;tt&gt;HashMap&lt;/tt&gt; instance * (int), and its load factor (float) are emitted, followed by * the size of the set (the number of elements it contains) * (int), followed by all of its elements (each an Object) in * no particular order." />
+      <item value="ignored (distinguishes this * constructor from other int, float constructor.)" />
       <item value="* &lt;p&gt;Hash table and linked list implementation of the &lt;tt&gt;Set&lt;/tt&gt; interface, * with predictable iteration order. This implementation differs from * &lt;tt&gt;HashSet&lt;/tt&gt; in that it maintains a doubly-linked list running through * all of its entries. This linked list defines the iteration ordering, * which is the order in which elements were inserted into the set * (&lt;i&gt;insertion-order&lt;/i&gt;). Note that insertion order is &lt;i&gt;not&lt;/i&gt; affected * if an element is &lt;i&gt;re-inserted&lt;/i&gt; into the set. (An element &lt;tt&gt;e&lt;/tt&gt; * is reinserted into a set &lt;tt&gt;s&lt;/tt&gt; if &lt;tt&gt;s.add(e)&lt;/tt&gt; is invoked when * &lt;tt&gt;s.contains(e)&lt;/tt&gt; would return &lt;tt&gt;true&lt;/tt&gt; immediately prior to * the invocation.)" />
       <item value="Error running '[org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate]': No valid Maven installation found. Either set the home directory in the configuration dialog or set the M2_HOME environment variable on your system." />
       <item value="* Increases the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance, if * necessary, to ensure that it can hold at least the number of elements * specified by the minimum capacity argument." />
@@ -50,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
