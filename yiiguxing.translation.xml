@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error running '[org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate]': No valid Maven installation found. Either set the home directory in the configuration dialog or set the M2_HOME environment variable on your system." />
       <item value="* Increases the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance, if * necessary, to ensure that it can hold at least the number of elements * specified by the minimum capacity argument." />
       <item value="* Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size. An application can use this operation to minimize * the storage of an &lt;tt&gt;ArrayList&lt;/tt&gt; instance." />
       <item value="* Constructs a list containing the elements of the specified * collection, in the order they are returned by the collection's * iterator." />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
