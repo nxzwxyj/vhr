@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Returns the number of elements in this set (its cardinality). If this * set contains more than &lt;tt&gt;Integer.MAX_VALUE&lt;/tt&gt; elements, returns * &lt;tt&gt;Integer.MAX_VALUE&lt;/tt&gt;. * * @return the number of elements in this set (its cardinality)" />
       <item value="the HashMap is at least 25% full but clamping to maximum capacity." />
       <item value="The capacity of the backing &lt;tt&gt;HashMap&lt;/tt&gt; instance * (int), and its load factor (float) are emitted, followed by * the size of the set (the number of elements it contains) * (int), followed by all of its elements (each an Object) in * no particular order." />
       <item value="ignored (distinguishes this * constructor from other int, float constructor.)" />
@@ -53,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
