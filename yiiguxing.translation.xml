@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dummy value to associate with an Object in the backing Map" />
       <item value="* Returns the number of elements in this set (its cardinality). If this * set contains more than &lt;tt&gt;Integer.MAX_VALUE&lt;/tt&gt; elements, returns * &lt;tt&gt;Integer.MAX_VALUE&lt;/tt&gt;. * * @return the number of elements in this set (its cardinality)" />
       <item value="the HashMap is at least 25% full but clamping to maximum capacity." />
       <item value="The capacity of the backing &lt;tt&gt;HashMap&lt;/tt&gt; instance * (int), and its load factor (float) are emitted, followed by * the size of the set (the number of elements it contains) * (int), followed by all of its elements (each an Object) in * no particular order." />
@@ -50,12 +51,11 @@
       <item value="An object that maps keys to values. A map cannot contain duplicate keys; * each key can map to at most one value." />
       <item value="IllegalStateException implementations may, but are not * required to, throw this exception if the entry has been * removed from the backing map." />
       <item value="Returns the key corresponding to this entry." />
-      <item value="Holds cached entrySet(). Note that AbstractMap fields are used * for keySet() and values()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
